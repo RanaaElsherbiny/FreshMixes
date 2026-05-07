@@ -7,7 +7,7 @@ The site highlights FreshMixes’ commitment to freshness and balanced nutrition
 
 ## 🔗 Live Preview  
 View the full website here:  
-👉 [**FreshMixes Live Website**](https://github.com/RanaaElsherbiny/FreshMixes.git)
+👉 [**FreshMixes Live Website**](https://ranaaelsherbiny.github.io/FreshMixes/)
 
 <br>
 
