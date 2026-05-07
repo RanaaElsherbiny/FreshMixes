@@ -3,10 +3,18 @@ FreshMixes is a modern one-page restaurant website built with HTML, CSS, and Jav
 The site highlights FreshMixes’ commitment to freshness and balanced nutrition, featuring vibrant visuals, smooth scrolling sections, and interactive elements that let visitors easily explore the menu, ingredients, and contact information — all on a clean, responsive layout optimized for all devices.<br>
 
 
-
-
-**Live site:** (https://ranaaelsherbiny.github.io/FreshMixes/](https://github.com/RanaaElsherbiny/FreshMixes.git)<br>
-**Figma design:** ![image alt] (https://www.figma.com/design/Jryysf50RINjgMLi9C6bw8/FreshMixes?node-id=1-480&p=f)
 <br>
 
-![image alt](https://github.com/RanaElsherbiny/FreshMixes/blob/54f1f04aad561ff01f3ccf6782d9dbed34218b4f/freshmixes-cover.png)
+## 🔗 Live Preview  
+View the full website here:  
+👉 [**FreshMixes Live Website**](https://github.com/RanaaElsherbiny/FreshMixes.git)
+
+<br>
+
+## 🎨 Figma Design  
+View the original Figma UI design:  
+👉 [**FreshMixes Figma Design**](https://www.figma.com/design/Jryysf50RINjgMLi9C6bw8/FreshMixes?node-id=1-480&t=7GCwFSFyHsRogbzj-1)
+
+<br>
+
+![image alt](https://github.com/RanaaElsherbiny/FreshMixes/blob/ca91940856a8160a1f3582fa9fabaf65913def73/images/freshmixes-cover.png)
